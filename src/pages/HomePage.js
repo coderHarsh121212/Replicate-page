@@ -65,7 +65,7 @@ const HomePage = () => {
         </div>
       </div>
       <div className="hidden justify-between pt-20 pb-5 w-[90%] mx-auto gap-10 md:flex">
-        <div className="flex flex-col gap-8 h-[55rem] overflow-scroll  p-2 w-[70%]">
+        <div className="flex flex-col gap-8 h-[55rem] overflow-scroll  p-2 w-[70%] bg-scroll">
           <div className="flex flex-col gap-2 ">
             <h1 className="text-3xl font-bold">CheckOut</h1>
             <h3 className="font-bold text-xl">
